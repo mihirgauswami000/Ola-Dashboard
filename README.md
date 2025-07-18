@@ -130,7 +130,7 @@ To build a real-time analytics platform that:
 
 ### ❌ Cancellation Trends
 
-![Cancellation](screenshots/cancellation_dashboard.png)
+![Cancellation](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Cancellation%20Page.png)
 
 ### 💳 Revenue Insights
 
