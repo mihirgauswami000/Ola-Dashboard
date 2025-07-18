@@ -120,9 +120,9 @@ To build a real-time analytics platform that:
 
 
 
-### 🔍 Overview Page
+### 🔍 Overall Page
 
-![Overall](screenshots/overall_dashboard.png)
+![Overall](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Overall%20Page.png)
 
 ### 🚙 Vehicle Type Analysis
 
