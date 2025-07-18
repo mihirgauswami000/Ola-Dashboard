@@ -1,23 +1,22 @@
 
-
 # 📊 Ola Ride Analytics Dashboard
 
 ### A Power BI Project for Visualizing Rides, Revenue & Ratings Across Bangalore
 
----
+
 
 ## 1. **Project Title / Headline**
 
 🚕 **Ola Ride Analytics: Interactive Dashboard for Ride & Revenue Insights**
 A dynamic Power BI dashboard designed to analyze Ola ride data across Bangalore—focusing on booking behavior, vehicle performance, cancellation trends, revenue flow, and customer-driver experience.
 
----
+
 
 ## 2. **Short Description / Purpose**
 
 The **Ola Ride Analytics Dashboard** is an interactive Power BI report built to uncover insights from 100,000+ Ola ride records for June 2025. It visualizes trends in booking activity, cancellation reasons, revenue distribution, and service satisfaction to support data-driven decisions by transport analysts and mobility companies.
 
----
+
 
 ## 3. **Tech Stack**
 
@@ -29,7 +28,6 @@ The dashboard was built using the following tools and technologies:
 * 🔗 **Data Modeling** – Relationships built among bookings, customers, vehicles, and ratings for interactive filtering.
 * 📁 **File Format** – `.pbix` used for development; `.png` used for showcasing dashboard screenshots.
 
----
 
 ## 4. **Data Source**
 
@@ -46,7 +44,6 @@ The dashboard was built using the following tools and technologies:
 * `Cancellation Reason` – By both customer and driver
 * `Incomplete Ride Reason` – Customer demand, vehicle breakdown, or other issues
 
----
 
 ## 5. **Features / Highlights**
 
@@ -59,7 +56,7 @@ Ola receives thousands of ride requests daily. Without analytics, it's difficult
 * Who the most valuable customers are
 * How drivers and customers rate each other
 
----
+
 
 ### • **Goal of the Dashboard**
 
@@ -71,7 +68,7 @@ To build a real-time analytics platform that:
 * Compares driver and customer satisfaction
 * Analyzes revenue split by payment modes
 
----
+
 
 ### • **Walkthrough of Key Visuals**
 
@@ -104,7 +101,6 @@ To build a real-time analytics platform that:
 * **Driver vs. Customer Ratings**: Dual line comparison
 * **Driver Rating Distribution**: Histogram of performance across all drivers
 
----
 
 ### • **Business Impact & Insights**
 
@@ -114,7 +110,7 @@ To build a real-time analytics platform that:
 * ⏱ **Operational Timing Metrics** – Use VTAT and CTAT to minimize customer wait time
 * 🧑‍✈️ **Performance Monitoring** – Use ratings to train or reward drivers
 
----
+
 
 ## 6. **Screenshots / Demo**
 
@@ -128,17 +124,17 @@ To build a real-time analytics platform that:
 
 ![Vehicle Type](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Vehical%20Type%20Page.png)
 
-### ❌ Cancellation Trends
-
-![Cancellation](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Cancellation%20Page.png)
-
 ### 💳 Revenue Insights
 
 ![Revenue](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Revenue%20Page.png)
 
+### ❌ Cancellation Trends
+
+![Cancellation](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Cancellation%20Page.png)
+
 ### ⭐ Ratings Analysis
 
-![Ratings](screenshots/ratings_dashboard.png)
+![Ratings](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20Of%20Rating%20Page.png)
 
 ---
 
