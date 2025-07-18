@@ -126,7 +126,7 @@ To build a real-time analytics platform that:
 
 ### 🚙 Vehicle Type Analysis
 
-![Vehicle Type](screenshots/vehicle_type_analysis.png)
+![Vehicle Type](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Vehical%20Type%20Page.png)
 
 ### ❌ Cancellation Trends
 
