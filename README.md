@@ -134,7 +134,7 @@ To build a real-time analytics platform that:
 
 ### 💳 Revenue Insights
 
-![Revenue](screenshots/revenue_dashboard.png)
+![Revenue](https://github.com/mihirgauswami000/Ola-Dashboard/blob/main/Screenshot%20of%20Revenue%20Page.png)
 
 ### ⭐ Ratings Analysis
 
